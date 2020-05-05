@@ -1,0 +1,21 @@
+{
+  "name": "devf_demo_class_red_may",
+  "version": "1.0.0",
+  "description": "Ejericio de clase muestra devf cinta roja, requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "demo",
+    "class",
+    "devf"
+  ],
+  "author": "luisCasillas",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.3"
+  }
+}
